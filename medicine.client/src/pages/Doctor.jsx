@@ -51,7 +51,7 @@ const Doctor = () => {
     return (
       <div>
           <div>
-                <h2 style={{ backgroundColor: "lightyellow" }}>{docInfo.department} {docInfo.name} 醫師 </h2>
+                <h2 style={{ backgroundColor: "lightyellow" }}>{docInfo.department} {docInfo.name}</h2>
           </div>
           <br />
           <br />

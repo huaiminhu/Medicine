@@ -12,6 +12,7 @@ const Pharmacy = () => {
         auth == "EmployeeLoggedIn" ? '' : navigate("/Failed")
     })
     const name = useRef(''); //藥物名稱
+    const symptom = useRef(''); //症狀
     const effect = useRef(''); //藥效
     const side = useRef(''); //副作用
     const dose = useRef(''); //使用方式
@@ -25,7 +26,8 @@ const Pharmacy = () => {
                 "Content-Type": "application/json",
             },
             body: JSON.stringify({
-                Name: name.current.value, 
+                Name: name.current.value,
+                Symptom: symptom.current.value, 
                 Effect: effect.current.value, 
                 Side: side.current.value, 
                 Dose: dose.current.value
@@ -37,7 +39,8 @@ const Pharmacy = () => {
     const searchMed = useRef('');
     const [result, setResult] = useState({
         Id: null, 
-        Name: null, 
+        Name: null,
+        Symptom: null, 
         Effect: null, 
         Side: null, 
         Dose: null 
@@ -82,6 +85,11 @@ const Pharmacy = () => {
               </label>
               <br />
               <label>
+                  請輸入症狀:
+                  <input ref={symptom} type="text" placeholder="症狀" />
+              </label>
+              <br />
+              <label>
                   請輸入藥效:
                   <input ref={effect} type="text" placeholder="藥效" />
               </label>
@@ -111,6 +119,7 @@ const Pharmacy = () => {
                       <thead>
                           <tr>
                               <th>藥物名稱</th>
+                              <th>症狀</th>
                               <th>藥效</th>
                               <th>副作用</th>
                               <th>服用時間及用量</th>
@@ -119,6 +128,7 @@ const Pharmacy = () => {
                       <tbody>
                           <tr>
                               <td>{result.name}</td>
+                              <td>{result.symptom}</td>
                               <td>{result.effect}</td>
                               <td>{result.side}</td>
                               <td>{result.dose}</td>

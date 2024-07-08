@@ -72,7 +72,7 @@ const LogIn = () => {
                 <br />
                 <label>員工科別: <input ref={departmentInput} type="text" placeholder="科別" /></label>
                 <br />
-                <label>員工代碼: <input ref={numInput} type="password" placeholder="代碼" /></label>
+                <label>員工編號: <input ref={numInput} type="password" placeholder="編號" /></label>
                 <br />
                 <button onClick={()=>addDoctor()}>新增</button>
             </div>

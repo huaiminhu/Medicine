@@ -25,8 +25,9 @@ namespace Medicine.Server.Controllers
             con.Open();
             com.Connection = con;
             com.CommandText = "INSERT INTO medicine VALUES ( '" + 
-                medicine.Name + "', '" + medicine.Effect + "', '" + 
-                medicine.Side + "', '" + medicine.Dose + "' );";
+                medicine.Name + "', '" + medicine.Symptom + "', '" + 
+                medicine.Effect + "', '" + medicine.Side + "', '" +
+                medicine.Dose + "' );";
             if (com.ExecuteNonQuery() > 0)
             {
                 con.Close();
@@ -54,9 +55,10 @@ namespace Medicine.Server.Controllers
             {
                 medicine.Id = reader.GetInt32(0);
                 medicine.Name = reader.GetString(1);
-                medicine.Effect = reader.GetString(2);
-                medicine.Side = reader.GetString(3);
-                medicine.Dose = reader.GetString(4);
+                medicine.Symptom = reader.GetString(2);
+                medicine.Effect = reader.GetString(3);
+                medicine.Side = reader.GetString(4);
+                medicine.Dose = reader.GetString(5);
                 con.Close();
                 return medicine;
             }
@@ -146,11 +148,12 @@ namespace Medicine.Server.Controllers
         }
 
         //藥物資訊含藥物ID(Id), 藥物名稱(Name), 藥效(Effect), 副作用(Side), 
-        //以及使用方式(Dose)
+        //,使用方式(Dose)以及
         public class Medicine
         {
             public int Id { get; set; }
             public string Name { get; set; }
+            public string Symptom { get; set; }
             public string Effect { get; set; }
             public string Side { get; set; }
             public string Dose { get; set; }
