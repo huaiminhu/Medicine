@@ -1,0 +1,2 @@
+C:\Users\hankh\Desktop\Medicine\medicine.client\obj\Debug\medicine.client.esproj.CoreCompileInputs.cache
+C:\Users\hankh\Desktop\Portfolio\Medicine\medicine.client\obj\Debug\medicine.client.esproj.CoreCompileInputs.cache

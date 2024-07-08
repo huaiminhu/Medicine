@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "7KRz0XJ/ywFxyEIqSlCRZ8qc4zbFnq4e0oUuQSlXrt0=",
+  "Source": "Medicine.Server",
+  "BasePath": "_content/Medicine.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\hankh\\Desktop\\Portfolio\\Medicine\\medicine.client\\medicine.client.esproj",
+      "Version": 2,
+      "Source": "medicine.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hankh\\Desktop\\Portfolio\\Medicine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77ACABAA-CA0A-470D-AD03-9A05014BEA84}|medicine.client\\medicine.client.esproj|c:\\users\\hankh\\desktop\\portfolio\\medicine\\medicine.client\\src\\pages\\doctor.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77ACABAA-CA0A-470D-AD03-9A05014BEA84}|medicine.client\\medicine.client.esproj|solutionrelative:medicine.client\\src\\pages\\doctor.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77ACABAA-CA0A-470D-AD03-9A05014BEA84}|medicine.client\\medicine.client.esproj|c:\\users\\hankh\\desktop\\portfolio\\medicine\\medicine.client\\src\\pages\\pharmacy.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77ACABAA-CA0A-470D-AD03-9A05014BEA84}|medicine.client\\medicine.client.esproj|solutionrelative:medicine.client\\src\\pages\\pharmacy.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77ACABAA-CA0A-470D-AD03-9A05014BEA84}|medicine.client\\medicine.client.esproj|c:\\users\\hankh\\desktop\\portfolio\\medicine\\medicine.client\\src\\pages\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77ACABAA-CA0A-470D-AD03-9A05014BEA84}|medicine.client\\medicine.client.esproj|solutionrelative:medicine.client\\src\\pages\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77ACABAA-CA0A-470D-AD03-9A05014BEA84}|medicine.client\\medicine.client.esproj|c:\\users\\hankh\\desktop\\portfolio\\medicine\\medicine.client\\src\\pages\\patient.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{77ACABAA-CA0A-470D-AD03-9A05014BEA84}|medicine.client\\medicine.client.esproj|solutionrelative:medicine.client\\src\\pages\\patient.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogIn.jsx",
+              "DocumentMoniker": "C:\\Users\\hankh\\Desktop\\Portfolio\\Medicine\\medicine.client\\src\\pages\\LogIn.jsx",
+              "RelativeDocumentMoniker": "medicine.client\\src\\pages\\LogIn.jsx",
+              "ToolTip": "C:\\Users\\hankh\\Desktop\\Portfolio\\Medicine\\medicine.client\\src\\pages\\LogIn.jsx",
+              "RelativeToolTip": "medicine.client\\src\\pages\\LogIn.jsx",
+              "ViewState": "AQIAAE0AAAAAAAAAAAA9wFMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-05T01:36:00.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doctor.jsx",
+              "DocumentMoniker": "C:\\Users\\hankh\\Desktop\\Portfolio\\Medicine\\medicine.client\\src\\pages\\Doctor.jsx",
+              "RelativeDocumentMoniker": "medicine.client\\src\\pages\\Doctor.jsx",
+              "ToolTip": "C:\\Users\\hankh\\Desktop\\Portfolio\\Medicine\\medicine.client\\src\\pages\\Doctor.jsx",
+              "RelativeToolTip": "medicine.client\\src\\pages\\Doctor.jsx",
+              "ViewState": "AQIAAGEAAAAAAAAAAAA4wG8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-04T11:23:11.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.jsx",
+              "DocumentMoniker": "C:\\Users\\hankh\\Desktop\\Portfolio\\Medicine\\medicine.client\\src\\pages\\Patient.jsx",
+              "RelativeDocumentMoniker": "medicine.client\\src\\pages\\Patient.jsx",
+              "ToolTip": "C:\\Users\\hankh\\Desktop\\Portfolio\\Medicine\\medicine.client\\src\\pages\\Patient.jsx",
+              "RelativeToolTip": "medicine.client\\src\\pages\\Patient.jsx",
+              "ViewState": "AQIAAKsAAAAAAAAAAAA9wLoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-04T11:23:16.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pharmacy.jsx",
+              "DocumentMoniker": "C:\\Users\\hankh\\Desktop\\Portfolio\\Medicine\\medicine.client\\src\\pages\\Pharmacy.jsx",
+              "RelativeDocumentMoniker": "medicine.client\\src\\pages\\Pharmacy.jsx",
+              "ToolTip": "C:\\Users\\hankh\\Desktop\\Portfolio\\Medicine\\medicine.client\\src\\pages\\Pharmacy.jsx",
+              "RelativeToolTip": "medicine.client\\src\\pages\\Pharmacy.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-04T11:23:18.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
