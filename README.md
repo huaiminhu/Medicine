@@ -8,12 +8,12 @@
 
 
 
-## 首頁[](/medicine.client/src/pages/LogIn.jsx)(/) 
+## 首頁(/) 
 
 ![](/pics/首頁_1.jpg)
 
 
-> 新增醫師
+> 新增醫師[](/medicine.client/src/pages/LogIn.jsx)
 
 ![](/pics/首頁_2.jpg)
 
