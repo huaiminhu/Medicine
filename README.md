@@ -6,7 +6,7 @@
 
 資料庫 : Microsoft SQL Server
 
-
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 ## 首頁(/) [](/medicine.client/src/pages/LogIn.jsx)
 
