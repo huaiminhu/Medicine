@@ -133,7 +133,7 @@
 ![](/pics/藥局_4.jpg)
 
 
-> 所有患者開藥紀錄顯示於頁面最下方, 分為未領(開藥紀錄)和已領藥
+> 所有患者開藥紀錄顯示於頁面最下方, 分為未領(開藥名冊)和已領藥
 
 [對應API: /Pharmacy/Records, 後端程式碼: Pharmacy控制器第88-148列](/Medicine.Server/Controllers/PharmacyController.cs)
 
@@ -147,7 +147,7 @@
 ![](/pics/藥局_6.jpg)
 
 
-> 患者領藥後, 紀錄會出現在已領藥區域, 並新增領藥時間
+> 患者領藥後, 紀錄會出現在已領藥名冊, 並新增領藥時間
 
 [對應API: /Pharmacy/Records, 後端程式碼: Pharmacy控制器第88-148列](/Medicine.Server/Controllers/PharmacyController.cs)
 
