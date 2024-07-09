@@ -11,9 +11,9 @@
 ## 首頁(/) 
 
 ![](/pics/首頁_1.jpg)
+前端程式碼[](/medicine.client/src/pages/LogIn.jsx)
 
-
-> 新增醫師[](/medicine.client/src/pages/LogIn.jsx)
+> 新增醫師
 
 ![](/pics/首頁_2.jpg)
 
