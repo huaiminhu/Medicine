@@ -16,7 +16,7 @@
 
 
 
-> 新增醫師
+> 新增醫師([對應API程式碼:/Account/NewEmployee](/Medicine.Server/Controllers/AccountController.cs))
 
 ![](/pics/首頁_2.jpg)
 
