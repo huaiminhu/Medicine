@@ -8,9 +8,11 @@
 
 
 
-## 首頁(/) [前端程式碼](/medicine.client/src/pages/LogIn.jsx)
+## 首頁(/) 
 
 ![](/pics/首頁_1.jpg)
+[前端程式碼](/medicine.client/src/pages/LogIn.jsx)
+
 
 
 > 新增醫師
@@ -27,6 +29,8 @@
 ## 醫師端頁面(/Doctor)
 
 ![](/pics/醫師_1.jpg)
+[前端程式碼](/medicine.client/src/pages/Doctor.jsx)
+
 
 
 > 新增患者
@@ -48,6 +52,8 @@
 ## 患者頁面(/Patient)
 
 ![](/pics/患者_1.jpg)
+[前端程式碼](/medicine.client/src/pages/Patient.jsx)
+
 
 
 > 新增開藥
@@ -73,6 +79,8 @@
 ## 藥局端頁面(/Pharmacy)
 
 ![](/pics/藥局_1.jpg)
+[前端程式碼](/medicine.client/src/pages/Pharmacy.jsx)
+
 
 
 > 從首頁最下方登入藥局頁面
