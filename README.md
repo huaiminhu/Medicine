@@ -38,6 +38,12 @@
 
 
 
+> 顯示醫師科別及名稱於頁面上方
+
+[對應API: /Doctor/{num}, 後端程式碼: Doctor控制器第18-38列](/Medicine.Server/Controllers/DoctorController.cs)
+
+![](/pics/醫師_5.jpg)
+
 
 > 新增患者
 
@@ -65,7 +71,6 @@
 [前端程式碼](/medicine.client/src/pages/Patient.jsx)
 
 ![](/pics/患者_1.jpg)
-
 
 
 
