@@ -8,18 +8,17 @@
 
 
 
-## 首頁(/) 
-前端程式: [](/medicine.client/src/pages/LogIn.jsx)
+### 首頁(/) 
 
 ![](/pics/首頁_1.jpg)
 
 
-新增醫師
+> 新增醫師
 
 ![](/pics/首頁_2.jpg)
 
 
-使用員工編號登入系統
+> 使用員工編號登入系統
 
 ![](/pics/首頁_3.jpg)
 
