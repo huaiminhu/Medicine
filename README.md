@@ -16,12 +16,16 @@
 
 
 
-> 新增醫師([對應API: /Account/NewEmployee, 程式碼: Account控制器第21列](/Medicine.Server/Controllers/AccountController.cs))
+> 新增醫師
+
+([對應API: /Account/NewEmployee, 後端程式碼: Account控制器第21-42列](/Medicine.Server/Controllers/AccountController.cs))
 
 ![](/pics/首頁_2.jpg)
 
 
 > 使用員工編號登入系統
+
+([對應API: /Account/DoctorSignIn, 後端程式碼: Account控制器第44-63列](/Medicine.Server/Controllers/AccountController.cs))
 
 ![](/pics/首頁_3.jpg)
 
