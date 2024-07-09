@@ -26,16 +26,6 @@ namespace Medicine.Server.Controllers
             connectionString();
             con.Open();
             com.Connection = con;
-
-            //若員工編號已經存在於資料庫, 則無法新增
-            com.CommandText = "SELECT * FROM doctor WHERE num = " + 
-                acc.Num + ";";
-            if(com.ExecuteNonQuery() > 0)
-            {
-                con.Close();
-                return BadRequest();
-            }
-
             com.CommandText = "INSERT INTO doctor VALUES( " + 
                 acc.Num + ", '" + acc.Name + "', '" + acc.Department + "' );";
             if(com.ExecuteNonQuery() > 0)
