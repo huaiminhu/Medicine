@@ -8,10 +8,10 @@
 
 
 
-## 首頁(/) 
+## 首頁[](/medicine.client/src/pages)(/) 
 
 ![](/pics/首頁_1.jpg)
-[](/medicine.client/src/pages)
+
 
 > 新增醫師
 
