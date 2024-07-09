@@ -8,7 +8,7 @@
 
 
 
-## 首頁[](/medicine.client/src/pages)(/) 
+## 首頁[](/medicine.client/src/pages/LogIn.jsx)(/) 
 
 ![](/pics/首頁_1.jpg)
 
