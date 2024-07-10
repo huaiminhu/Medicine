@@ -20,11 +20,11 @@
 
 ### 使用工具及技術:
 
-- ** 前端 : _React_ ** 
+- **前端 : _React_** 
 
-- ** 後端 : _ASP.NET Core Web API_ **
+- **後端 : _ASP.NET Core Web API_**
 
-- ** 資料庫 : _Microsoft SQL Server_ **
+- **資料庫 : _Microsoft SQL Server_**
 
 - IDE: Visual Studio
 
