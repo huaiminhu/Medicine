@@ -10,7 +10,7 @@
 
 資料庫 : Microsoft SQL Server
 
-IDE: VISUAL STUDIO
+IDE: Visual Studio
 
 ***
 
