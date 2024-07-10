@@ -1,5 +1,7 @@
 # 開藥系統
 
+
+**
 前端 : React 
 
 後端 : ASP.NET Core Web API
@@ -7,8 +9,9 @@
 資料庫 : Microsoft SQL Server
 
 IDE: VISUAL STUDIO
+**
 
-
+***
 簡述: 
 
 該WEB軟體分醫師和藥局兩端, 由醫師從主頁上方使用員工編號登入系統, 
@@ -16,7 +19,7 @@ IDE: VISUAL STUDIO
 管理患者並為患者開藥, 之後可在藥局端頁面下方看到所有開藥紀錄, 
 
 患者至藥局領藥後, 該患者開藥紀錄會由藥局端更新其領藥時間
-
+***
 
 ## 首頁(/) 
 [前端程式碼](/medicine.client/src/pages/LogIn.jsx)
