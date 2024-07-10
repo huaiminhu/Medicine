@@ -1,7 +1,6 @@
 # 開藥系統
 
 
-
 ***
 
 - 前端 : React 
@@ -176,14 +175,91 @@
 
 ## API文件
 
+> Account Controller
+
 ![](/pics/API_1.jpg)
+
+> Doctor Controller
 
 ![](/pics/API_2.jpg)
 
+> Patient Controller
+
 ![](/pics/API_3.jpg)
+
+> Pharmacy Controller
 
 ![](/pics/API_4.jpg)
 
+
+
 ## 資料庫
 
+> 概觀
 
+![](/pics/資料庫_1.jpg)
+
+> doctor資料表
+
+欄位: 
+
+- 員工編號(num, 主鍵)
+
+- 員工(醫師)名稱(name)
+
+- 科別(department)
+
+![](/pics/資料庫_2.jpg)
+
+
+> patient資料表
+
+欄位:
+
+- 患者ID(id, 主鍵)
+
+- 患者名稱(name)
+
+- 員工(醫師)編號(doctorNum, 外來鍵)
+
+![](/pics/資料庫_3.jpg)
+
+
+> medicine資料表
+
+欄位:
+
+- 藥物ID(id, 主鍵)
+
+- 藥物名稱(name, 唯一值)
+
+- 症狀(symptom)
+
+- 藥效(effect)
+
+- 副作用(sideEffect)
+
+- 用量(dose)
+
+![](/pics/資料庫_4.jpg)
+
+
+> record資料表
+
+欄位:
+
+- 紀錄ID(id, 主鍵)
+
+- 開藥時間(time)
+
+- 開藥數量(quantity)
+
+- 患者ID(patientId, 外來鍵)
+
+- 藥物ID(medicineId, 外來鍵)
+
+- 員工編號(docNum, 外來鍵)
+
+- 領藥時間(getMedTime)
+
+![](/pics/資料庫_5.jpg)
