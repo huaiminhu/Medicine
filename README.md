@@ -4,7 +4,7 @@
 
 ***
 
-簡述: 
+### 簡述: 
 
 該WEB軟體分醫師和藥局兩端 
 
@@ -18,13 +18,13 @@
 
 ***
 
-使用工具及技術:
+### 使用工具及技術:
 
-- 前端 : React 
+- ** 前端 : _React_ ** 
 
-- 後端 : ASP.NET Core Web API
+- ** 後端 : _ASP.NET Core Web API_ **
 
-- 資料庫 : Microsoft SQL Server
+- ** 資料庫 : _Microsoft SQL Server_ **
 
 - IDE: Visual Studio
 
