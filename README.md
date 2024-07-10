@@ -224,13 +224,13 @@
 
 ## 資料庫
 
-> 概觀
+> 概觀(名稱: medicine)
 
 ![](/pics/資料庫_1.jpg)
 
 <br /><br />
 
-> doctor資料表
+> doctor資料表(作用: 員工(醫師)資料使用)
 
 ![](/pics/資料庫_2.jpg)
 
@@ -244,7 +244,7 @@
 
 <br /><br /><br />
 
-> patient資料表
+> patient資料表(作用: 患者資料使用)
 
 ![](/pics/資料庫_3.jpg)
 
@@ -258,7 +258,7 @@
 
 <br /><br />
 
-> medicine資料表
+> medicine資料表(作用: 藥物資料使用)
 
 ![](/pics/資料庫_4.jpg)
 
@@ -278,7 +278,7 @@
 
 <br /><br />
 
-> record資料表
+> record資料表(作用: 開藥紀錄使用)
 
 ![](/pics/資料庫_5.jpg)
 
