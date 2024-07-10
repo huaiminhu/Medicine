@@ -4,20 +4,6 @@
 
 ***
 
-- 前端 : React 
-
-- 後端 : ASP.NET Core Web API
-
-- 資料庫 : Microsoft SQL Server
-
-- IDE: Visual Studio
-
-***
-
-
-
-***
-
 簡述: 
 
 該WEB軟體分醫師和藥局兩端 
@@ -25,6 +11,20 @@
 - 醫師端: 由醫師從主頁上方使用員工編號登入系統, 管理患者並為患者開藥
 
 - 藥局端: 首頁下方登入藥局端, 可從頁面下方看到所有開藥紀錄, 患者至藥局領藥後, 該患者開藥紀錄會由藥局端更新其領藥時間
+
+***
+
+
+
+***
+
+- 前端 : React 
+
+- 後端 : ASP.NET Core Web API
+
+- 資料庫 : Microsoft SQL Server
+
+- IDE: Visual Studio
 
 ***
 
