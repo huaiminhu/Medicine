@@ -16,7 +16,7 @@ namespace Medicine.Server.Controllers
             con.ConnectionString = "Data Source=tcp:localhost\\SQLEXPRESS,49801;Initial Catalog=medicine;Integrated Security=True;Trust Server Certificate=True";
         }
 
-        //患者頁面(/Patient)最下方顯示所有開藥紀錄
+        //患者頁面(/Patient)最下方顯示所有開藥紀錄a
         [HttpGet]
         [Route("{id}/Records")]
         public List<Display> DisplayRecords(int id)
