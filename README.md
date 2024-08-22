@@ -20,7 +20,7 @@
 
 ### 使用工具及技術:
 
-- **前端 : _React_** 
+- **前端 : _React.js_** 
 
 - **後端 : _ASP.NET Core Web API_**
 
